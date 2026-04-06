@@ -1,5 +1,13 @@
 export const events = [
     // Add the Events with repect to date format of (YYYY-MM-DD) Ex. "2025-02-02"
+
+      {
+        name: "Build X AI",
+        discription: "We conducted the BUILD X Al workshop for first-year students, introducing them to the practical world of Artificial Intelligence and modern Al tools.The workshop witnessed the participation of around 480+ first-year students, showing tremendous enthusiasm to explore the possibilities of Al.To ensure smooth coordination and effective interaction, the participants were organized into 8 teams, with around 60 students in each team. This structure helped create an energetic and collaborative learning environment throughout the workshop.",  
+        date: "2026-03-04",
+        image: "https://res.cloudinary.com/djm8qhle1/image/upload/f_auto,q_auto/Build_X_AI_z96exu",
+        link:"https://www.linkedin.com/posts/studentguidancecell-cahcet_studentguidancecell-buildxai-ai-activity-7435661329157279744-LNju?utm_source=social_share_send&utm_medium=android_app&rcm=ACoAAEZUDCABpTx_CK1FM9rpOV9zrSrvwh2jx8c&utm_campaign=whatsapp",
+      },
       {
         name: "Critical Thinking Workshop 2025",
         description: "We at the Student Guidance Cell (SGC), C. Abdul Hakeem College of Engineering & Technology, organized the 'Critical Thinking' workshop for first-year students. The session featured engaging puzzles, group activities, and the game 'Think Out of the Box,' helping students develop problem-solving, creative thinking, and decision-making skills. Guest speakers Mr. Tejesh Pichandi (Founder, HangouTech Pvt. Ltd.) and Mr. Mohammed Zabeer. Z (Public Speaker & Ph.D. Aspirant) shared inspiring insights on innovation, goal-setting, and a growth mindset.",
