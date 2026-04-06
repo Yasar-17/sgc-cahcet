@@ -1,6 +1,5 @@
 export const events = [
     // Add the Events with repect to date format of (YYYY-MM-DD) Ex. "2025-02-02"
-
       {
         name: "Build X AI",
         discription: "We conducted the BUILD X Al workshop for first-year students, introducing them to the practical world of Artificial Intelligence and modern Al tools.The workshop witnessed the participation of around 480+ first-year students, showing tremendous enthusiasm to explore the possibilities of Al.To ensure smooth coordination and effective interaction, the participants were organized into 8 teams, with around 60 students in each team. This structure helped create an energetic and collaborative learning environment throughout the workshop.",  
