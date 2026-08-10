@@ -1,5 +1,13 @@
 export const events = [
   // Add the Events with respect to date format of (YYYY-MM-DD) Ex. "2025-02-02"
+    {
+    name: "EXAGENT AI",
+    description:
+      "We successfully conducted ExAgent AI – Exploring Agentic AI Beyond Chatbots, an insightful workshop led by Mr. Hrithik, Software Developer at Merida Tech Minds. Through this session, we explored AI Agents, Multi-Agent Systems, Prompt Engineering, AI-powered applications, real-world industry use cases, and career opportunities in Artificial Intelligence. The workshop provided participants with valuable practical exposure to emerging AI technologies and helped us gain a better understanding of how Agentic AI is shaping the future of technology.",
+    date: "2026-07-31",
+    image: "https://gokuls2028.neocities.org/sgc.jpg",
+    link: "https://www.linkedin.com/posts/studentguidancecell-cahcet_studentguidancecell-sgc-exagentai-ugcPost-7489326285446475776-lrdb/?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAFC3TJMBgddb2XkoAqrMwgavyuA1j0w-W8A",
+  },
 
   {
     name: "SGC Trainee Recruitment Drive 2026",
